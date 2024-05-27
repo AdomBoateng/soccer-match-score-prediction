@@ -302,6 +302,3 @@ The model can predict outcomes for new matchups, such as:
 - Germany vs. Scotland
 - Hungary vs. Switzerland
 
-## Author
-
-This README was generated with the assistance of ChatGPT.
